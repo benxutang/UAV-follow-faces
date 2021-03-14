@@ -29,7 +29,7 @@ Reference: https://blog.csdn.net/liberatetheus/article/details/77914246
 - 做一个简单的飞行测试，即可降落
 - 读取日志
 - 绘制出OF.flowX OF.bodyX和IMU.GyrX的数据，三条图像应该大致重合
-![](./img/OF-roll-calibration.png)
+![](../img/OF-roll-calibration.png)
 
 ### 此处应当注意：这个部分我们不能按照官网指示进行，要按上述方法才能得到好的图像（排坑总结）
 ## 试飞
