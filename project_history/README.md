@@ -1,7 +1,4 @@
-# opencv tracing
-
-face detecting and tracing with opencv on UAV
-
+# History
 ## 0523-0602阶段-唐本旭
 
 ### 进展
