@@ -37,6 +37,7 @@ Docs and Python scripts for UAVs to follow faces.
 [源代码](./scripts)均为Python脚本，包含
 
 - 图像拍照及传输
-- 人脸识别与检测
+- 人脸数据训练
+- 人脸检测与识别
 - offboard模式下的自动VTOL(Vertical Take-off and Landing)程序
 - 树莓派GPIO控制舵机
