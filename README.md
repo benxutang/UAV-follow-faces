@@ -2,6 +2,9 @@
 
 Docs and Python scripts for UAVs to follow faces.
 
+## Demonstration
+YouTube Link: https://www.youtube.com/watch?v=Q0t_XF92gAM
+
 # 整体框架
 ## Objective
 实现无人机对人脸的识别，"认出熟悉的人"，并跟踪特定的人脸
