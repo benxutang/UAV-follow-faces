@@ -16,15 +16,15 @@ Docs and Python scripts for UAVs to follow faces.
 提取人脸包围框，同时识别出我们几个团队成员，打印名字在屏幕
 - 识别结果：唐本旭
 
-![TANG_BENXU](./img/TANG_BENXU.JPEG)
+<img src="./img/TANG_BENXU.JPEG" alt="drawing" width="700"/>
 
 - 识别结果：雷轩昂
 
-![LEI_XUANANG](./img/LEI_XUANANG.jpg)
+<img src="./img/LEI_XUANANG.jpg" alt="drawing" width="700"/>
 
 - 识别结果：李慕琦
 
-![LEI_XUANANG](./img/LI_MUQI.jpg)
+<img src="./img/LI_MUQI.jpg" alt="drawing" width="700"/>
 
 
 # History
