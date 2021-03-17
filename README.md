@@ -29,6 +29,9 @@ YouTube Link: https://www.youtube.com/watch?v=Q0t_XF92gAM
 
 <img src="./img/LI_MUQI.jpg" alt="drawing" width="700"/>
 
+### 试飞
+- 试飞时，无人机对跟随人脸运动
+<img src="./img/flying.jpg" alt="drawing" width="700"/>
 
 # History
 [项目历史记录](./project_history)包含各阶段成果以及遇到的问题
